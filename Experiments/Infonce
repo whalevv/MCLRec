@@ -1,0 +1,44 @@
+0.01
+diginetica
+Best Result:
+	Recall@20:	53.3669	MMR@20:	18.4463	Epoch:	2,	2
+Tmall
+Best Result:
+	Recall@20:	31.1916	MMR@20:	15.5395	Epoch:	1,	1
+Nowplaying
+Best Result:
+	Recall@20:	20.7094	MMR@20:	8.8663	Epoch:	2,	2
+
+0.02
+diginetica
+Best Result:
+	Recall@20:	52.0178	MMR@20:	17.9735	Epoch:	1,	2
+Tmall
+Best Result:
+	Recall@20:	25.9441	MMR@20:	13.3114	Epoch:	2,	2
+Nowplaying
+Best Result:
+	Recall@20:	19.4837	MMR@20:	8.7247	Epoch:	2,	2
+
+0.03
+Diginetica
+Best Result:
+	Recall@20:	50.7920	MMR@20:	17.5494	Epoch:	2,	3
+Tmall
+Best Result:
+	Recall@20:	20.5267	MMR@20:	11.5526	Epoch:	2,	0
+Nowplaying
+Best Result:
+	Recall@20:	18.2679	MMR@20:	8.3518	Epoch:	2,	2
+
+0.05
+
+diginetica
+Best Result:
+	Recall@20:	49.8784	MMR@20:	17.0773	Epoch:	2,	2
+Tmall
+Best Result:
+	Recall@20:	17.7697	MMR@20:	10.6409	Epoch:	2,	2
+Nowplaying：
+Best Result:
+	Recall@20:	16.9153	MMR@20:	8.0563	Epoch:	2,	2

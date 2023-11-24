@@ -1,0 +1,23 @@
+hidden_size:100
+InfoNCE:0.001   SGNN-HN1 + SR-GNN1
+Best Result:
+	Recall@20:	36.3542	MMR@20:	17.1562	Epoch:	2,	2
+Best Result:
+	Recall@20:	36.5341	MMR@20:	17.2059	Epoch:	2,	1
+
+Best Result:
+	Recall@20:	36.5202	MMR@20:	17.1524	Epoch:	2,	1
+
+InfoNCE:0.001   SGNN-HN3 + SR-GNN3
+Best Result:
+	Recall@20:	36.4970	MMR@20:	17.3251	Epoch:	2,	1
+Best Result:
+	Recall@20:	36.4816	MMR@20:	17.0511	Epoch:	2,	1
+
+L-1-S-3
+Best Result:
+	Recall@20:	36.6515	MMR@20:	17.2345	Epoch:	2,	1
+
+L-2-S-1
+Best Result:
+	Recall@20:	36.4507	MMR@20:	17.1738	Epoch:	2,	1
